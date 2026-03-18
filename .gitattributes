@@ -1,0 +1,4 @@
+pic/anydressing.gif filter=lfs diff=lfs merge=lfs -text
+pic/dreamid.gif filter=lfs diff=lfs merge=lfs -text
+pic/instructX.gif filter=lfs diff=lfs merge=lfs -text
+pic/seedance2.0.gif filter=lfs diff=lfs merge=lfs -text
