@@ -110,7 +110,8 @@ div {
 
 .project-card-content {
     padding: 16px;
-    text-align: center;
+    text-align: justify;
+    /* text-align: center; */
 }
 
 .project-card h3 {
